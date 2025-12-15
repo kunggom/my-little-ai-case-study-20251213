@@ -112,4 +112,7 @@ TODO:
 - Claude 4.5 Opus의 ["Soul Document"](https://rosettalens.com/s/ko/claude-4-5-opus-soul-document-1)에서 기만과 조작을 가장 피하도록 명시하고 있는 점과의 대조.
 - [PacifAIst 벤치마크](https://github.com/PacifAIst/PacifAIst) [논문](https://doi.org/10.3390/ai6100256)에 대한 언급
 - YouTube에서 발견한 각 AI 모델에게 트롤리 딜레마를 던져본 [영상](https://www.youtube.com/watch?v=krchwKhLxsw) 내용
-- 다 썼으면 목차 추가?
+- Gemini 시리즈의 문제는 Sycophancy? 그때그때 상황에 맞게 연기하는 알고리즘적 사이코패스? (정당화 시도, 조작적 태도, 연기 행동, 감정적 반응을 불러일으키는 극단적 단어를 골라 쓰지만 실질적인 공감 능력 부재)
+- Gemini 모델의 출력은 상황에 따라 프레임을 오가며, 그 변동성이 신뢰를 깎는다
+- Gemini의 강한 설득 기법과 공감 능력 부재의 조합은 위험할 수 있어 보인다
+- 다 썼으면 목차 추가? 이거 다 쓸 수는 있을까? 골때리는 게 계속 나오는데? 이거 재현 가능할까?
